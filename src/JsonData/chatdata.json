@@ -11,7 +11,7 @@
     {
       "username": "Jav",
       "profile": "Engineering",
-      "avatar": "http://localhost:3000/_next/static/media/profile4.3b195eed.svg",
+      "avatar": "https://chat-panel-ui.vercel.app/_next/static/media/profile4.3b195eed.svg",
       "message": "Anyone on for lunch today",
       "isCurrentUser": false,
       "online": false,
@@ -25,7 +25,7 @@
     {
       "username": "Aubrey",
       "profile": "Product",
-      "avatar": "http://localhost:3000/_next/static/media/profile3.06197309.svg",
+      "avatar": "https://chat-panel-ui.vercel.app/_next/static/media/profile3.06197309.svg",
       "message": "I was thinking the cafe downtown",
       "isCurrentUser": false,
       "online": true,
@@ -34,7 +34,7 @@
     {
       "username": "Aubrey",
       "profile": "Product",
-      "avatar": "http://localhost:3000/_next/static/media/profile3.06197309.svg",
+      "avatar": "https://chat-panel-ui.vercel.app/_next/static/media/profile3.06197309.svg",
       "message": "But limited vegan options @janet!",
       "isCurrentUser": false,
       "online": true,
@@ -48,7 +48,7 @@
     {
       "username": "Janet",
       "profile": "Engineering",
-      "avatar": "http://localhost:3000/_next/static/media/profile2.c1460bb7.svg",
+      "avatar": "https://chat-panel-ui.vercel.app/_next/static/media/profile2.c1460bb7.svg",
       "message": "That works- I was actually planning to get a smoothie anyways",
       "isCurrentUser": false,
       "online": false,
@@ -57,7 +57,7 @@
     {
       "username": "Janet",
       "profile": "Product",
-      "avatar": "http://localhost:3000/_next/static/media/profile1.bc0350fe.svg",
+      "avatar": "https://chat-panel-ui.vercel.app/_next/static/media/profile1.bc0350fe.svg",
       "message": "On for 12:30 PM then?",
       "isCurrentUser": false,
       "online": true,
