@@ -34,7 +34,7 @@
     {
       "username": "Aubrey",
       "profile": "Product",
-      "avatar": "http://localhost:3000//_next/static/media/profile3.06197309.svg",
+      "avatar": "http://localhost:3000/_next/static/media/profile3.06197309.svg",
       "message": "But limited vegan options @janet!",
       "isCurrentUser": false,
       "online": true,
@@ -48,7 +48,7 @@
     {
       "username": "Janet",
       "profile": "Engineering",
-      "avatar": "http://localhost:3000//_next/static/media/profile2.c1460bb7.svg",
+      "avatar": "http://localhost:3000/_next/static/media/profile2.c1460bb7.svg",
       "message": "That works- I was actually planning to get a smoothie anyways",
       "isCurrentUser": false,
       "online": false,
