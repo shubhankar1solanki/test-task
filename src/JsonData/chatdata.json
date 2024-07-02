@@ -1,0 +1,65 @@
+[{
+      "message": "Hi team",
+      "isCurrentUser": true,
+      "timestamp": "11:31 AM"
+    },
+    {
+      "message": "Anyone on for lunch today",
+      "isCurrentUser": true,
+      "timestamp": "11:31 AM"
+    },
+    {
+      "username": "Jav",
+      "profile": "Engineering",
+      "avatar": 4,
+      "message": "Anyone on for lunch today",
+      "isCurrentUser": false,
+      "online": false,
+      "timestamp": "11:35 AM"
+    },
+    {
+      "message": "I am down for whatever!",
+      "isCurrentUser": true,
+      "timestamp": "11:36 AM"
+    },
+    {
+      "username": "Aubrey",
+      "profile": "Product",
+      "avatar": 3,
+      "message": "I was thinking the cafe downtown",
+      "isCurrentUser": false,
+      "online": true,
+      "timestamp": "11:45 AM"
+    },
+    {
+      "username": "Aubrey",
+      "profile": "Product",
+      "avatar": 3,
+      "message": "But limited vegan options @janet!",
+      "isCurrentUser": false,
+      "online": true,
+      "timestamp": "11:45 AM"
+    },
+    {
+      "message": "Agreed",
+      "isCurrentUser": true,
+      "timestamp": "11:52 AM"
+    },
+    {
+      "username": "Janet",
+      "profile": "Engineering",
+      "avatar": "profile2",
+      "message": "That works- I was actually planning to get a smoothie anyways",
+      "isCurrentUser": false,
+      "online": false,
+      "timestamp": "12:03 PM"
+    },
+    {
+      "username": "Janet",
+      "profile": "Product",
+      "avatar": 1,
+      "message": "On for 12:30 PM then?",
+      "isCurrentUser": false,
+      "online": true,
+      "timestamp": "12:04 PM"
+    }]
