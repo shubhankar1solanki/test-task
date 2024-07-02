@@ -36,7 +36,7 @@ export const ChatWindow = () => {
       </div>
     </div>:<div className='flex gap-1 items-start'>
       <div className='w-8 relative h-8 min-w-8 rounded-full'>
-        <Image src={Profile1} width={32} height={32} alt='sender' />
+        <Image src={avatar} width={32} height={32} alt='sender' />
         {online ? <span className='absolute bottom-0 right-0 w-[10px] h-[10px] border border-white rounded-full bg-[#34C759]'></span> : null}
       </div>
       <div className='flex relative bg-[#F2F2F7] px-2 py-1 rounded-md max-w-[265px] w-full
